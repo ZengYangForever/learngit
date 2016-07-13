@@ -5,4 +5,3 @@ Git tracks changes of file.
 append a line in 20160713.
 test 6.
 test 7.
-test 8.
