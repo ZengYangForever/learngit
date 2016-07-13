@@ -3,4 +3,4 @@ Git is free software distributed under GPL.
 Git has a mutable index called stage.
 Git tracks changes of file.
 append a line in 20160713.
-My stupid boss still prefers SVN.
+test 6.
